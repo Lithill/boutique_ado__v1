@@ -317,7 +317,7 @@ Content for the website was made by Rossanne Hamilton.
 
 ### Acknowledgements
 
-I would like to acknowledge the following people who helped me along the way in completing my second milestone project:
+I would like to acknowledge the following people who helped me along the way in completing my fourth milestone project:
 
 - My mentor Mitko Bachvarov for helpful feedback and sharing links for further learning.
 - My tutor Robert Mclaughlin for helpful feedback and sharing links for further learning.
