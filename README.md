@@ -1,3 +1,8 @@
+Got to the email bit of the walkthrough - webhooks isn't working on heroku deployment. So skipped emails and went to refactoring and bug fixing
+
+
+
+
 # Eponymous Bosch
 
 This website has been created to sell AI generated art prints. It has been designed with a range of different screen sizes in mind. 
