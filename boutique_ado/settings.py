@@ -17,7 +17,7 @@ load_dotenv()
 
 import os
 # Change the secret key in the environment before finishing - as it has been saved on Gitpod
-SECRET_KEY = os.environ.get("SECRET_KEY")
+SECRET_KEY = os.environ.get("SECRET_KEY", '')
 DEBUG = "DEVELOPMENT" in os.environ
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
